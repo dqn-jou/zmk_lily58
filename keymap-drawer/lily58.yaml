@@ -37,7 +37,7 @@ layers:
   - L
   - ;
   - ''''
-  - LEFT GUI
+  - {t: LEFT GUI, h: bt}
   - Z
   - X
   - C
@@ -60,12 +60,12 @@ layers:
   - $$mdi:backspace-outline$$
   - $$mdi:apple-keyboard-command$$
   Low:
-  - BT CLR
-  - BT 1
-  - BT 2
-  - BT 3
-  - BT 4
-  - BT 5
+  - {t: '`', h: toggle}
+  - F1
+  - {t: F2, h: toggle}
+  - {t: F3, h: toggle}
+  - Win Close
+  - F5
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -77,14 +77,14 @@ layers:
   - F3
   - F4
   - F5
-  - F6
+  - PAGE UP
   - F7
   - F8
   - F9
   - F10
   - F11
   - F12
-  - '`'
+  - Caps Lock
   - '!'
   - '@'
   - '#'
@@ -123,8 +123,8 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - Vol Down
+  - Vol Up
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -134,9 +134,9 @@ layers:
   - '`'
   - '1'
   - '2'
-  - '3'
-  - '4'
-  - '5'
+  - ⏮️
+  - PLAY PAUSE
+  - ⏭️
   - '6'
   - '7'
   - '8'
@@ -146,9 +146,9 @@ layers:
   - F1
   - F2
   - F3
-  - F4
-  - F5
-  - F6
+  - PREV
+  - PLAY PAUSE
+  - NEXT
   - {t: ▽, type: trans}
   - ←
   - ↓
@@ -157,10 +157,10 @@ layers:
   - {t: ▽, type: trans}
   - F7
   - F8
-  - F9
+  - '&fabric'
   - F10
-  - F11
-  - F12
+  - VOL DN
+  - VOL UP
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - KP PLUS
@@ -172,6 +172,65 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  bt:
+  - BT CLR
+  - BT 1
+  - BT 2
+  - BT 3
+  - BT 4
+  - BT 5
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - BT CLR ALL
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {type: held}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - BT PRV
+  - BT NXT
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
