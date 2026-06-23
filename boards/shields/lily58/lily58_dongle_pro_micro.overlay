@@ -66,11 +66,11 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5) RC(4,5) RC(4,6) RC(3,6) RC(3,7) 
         compatible = "solomon,ssd1306fb";
         reg = <0x3c>;
         width = <128>;
-        height = <64>;
+        height = <32>;   /* здесь было 64 заменил для теста на 32 */
         segment-offset = <0>;
         page-offset = <0>;
         display-offset = <0>;
-        multiplex-ratio = <63>;
+        multiplex-ratio = <31>;   /* здесь было 63 заменил для теста на 31 */
         segment-remap;
         com-invdir;
         inversion-on;
@@ -87,11 +87,11 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5) RC(4,5) RC(4,6) RC(3,6) RC(3,7) 
         compatible = "solomon,ssd1306fb";
         reg = <0x3c>;
         width = <128>;
-        height = <64>;
+        height = <32>;   /* здесь было 64 заменил для теста на 32 */
         segment-offset = <0>;
         page-offset = <0>;
         display-offset = <0>;
-        multiplex-ratio = <63>;
+        multiplex-ratio = <31>;   /* здесь было 63 заменил для теста на 31 */
         segment-remap;
         com-invdir;
         inversion-on;
@@ -127,11 +127,11 @@ RC(3,0) RC(3,1) RC(3,2) RC(3,3) RC(3,4) RC(3,5) RC(4,5) RC(4,6) RC(3,6) RC(3,7) 
         compatible = "sinowealth,sh1106";
         reg = <0x3c>;
         width = <129>;
-        height = <64>;
+        height = <32>;   /* здесь было 64 заменил для теста на 32 */
         segment-offset = <1>;
         page-offset = <0>;
         display-offset = <0>;
-        multiplex-ratio = <63>;
+        multiplex-ratio = <31>;   /* здесь было 63 заменил для теста на 31 */
         segment-remap;
         com-invdir;
         inversion-on;
