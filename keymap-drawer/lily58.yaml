@@ -62,7 +62,7 @@ layers:
   Low:
   - {t: '`', h: toggle}
   - F1
-  - {t: '@', h: toggle}
+  - {t: F2, h: toggle}
   - {t: F3, h: toggle}
   - Win Close
   - F5
@@ -88,7 +88,7 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - DELETE
-  - {t: ▽, type: trans}
+  - UP ARROW
   - PAGE DOWN
   - {t: ▽, type: trans}
   - KP 1
@@ -98,9 +98,9 @@ layers:
   - +
   - '&fabric'
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - ←
+  - RIGHT ARROW
+  - {t: ↓, h: toggle}
   - BACKSPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}

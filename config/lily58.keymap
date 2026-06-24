@@ -52,11 +52,11 @@
 
             display-name = "Low";
             bindings = <
-&kt GRAVE    &kp F1  &kt AT_SIGN  &kt F3      &kp LA(F4)  &kp F5                           &trans  &kp KP_N7  &trans           &trans    &trans       &trans
-&kp LA(TAB)  &trans  &trans       &kp LG(E)   &kp LG(R)   &kp PAGE_UP                      &trans  &kp KP_N4  &kp F9           &kp F10   &kp F11      &kp F12
-&kp CAPS     &trans  &trans       &kp DELETE  &trans      &kp PAGE_DOWN                    &trans  &kp KP_N1  &kp KP_MULTIPLY  &kp LPAR  &kp KP_PLUS  &kp PLUS
-&fabric      &trans  &trans       &trans      &trans      &kp BACKSPACE  &trans    &trans  &trans  &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC     &kp PIPE
-                                  &trans      &trans      &trans         &trans    &trans  &trans  &trans     &trans
+&kt GRAVE    &kp F1  &kt F2    &kt F3           &kp LA(F4)    &kp F5                           &trans  &kp KP_N7  &trans           &trans    &trans       &trans
+&kp LA(TAB)  &trans  &trans    &kp LG(E)        &kp LG(R)     &kp PAGE_UP                      &trans  &kp KP_N4  &kp F9           &kp F10   &kp F11      &kp F12
+&kp CAPS     &trans  &trans    &kp DELETE       &kp UP_ARROW  &kp PAGE_DOWN                    &trans  &kp KP_N1  &kp KP_MULTIPLY  &kp LPAR  &kp KP_PLUS  &kp PLUS
+&fabric      &trans  &kp LEFT  &kp RIGHT_ARROW  &kt DOWN      &kp BACKSPACE  &trans    &trans  &trans  &kp MINUS  &kp KP_PLUS      &kp LBRC  &kp RBRC     &kp PIPE
+                               &trans           &trans        &trans         &trans    &trans  &trans  &trans     &trans
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
