@@ -12,7 +12,7 @@ layers:
   - '8'
   - '9'
   - '0'
-  - '`'
+  - '-'
   - ↹
   - Q
   - W
@@ -24,8 +24,8 @@ layers:
   - I
   - O
   - P
-  - '-'
-  - $$mdi:apple-keyboard-control$$
+  - '['
+  - LEFT SHIFT
   - A
   - S
   - D
@@ -36,72 +36,72 @@ layers:
   - K
   - L
   - ;
-  - ''''
+  - ']'
   - {t: LEFT GUI, h: bt}
   - Z
   - X
   - C
   - V
   - B
-  - '['
-  - ']'
+  - Home
+  - End
   - N
   - M
   - ','
   - .
   - /
-  - $$mdi:apple-keyboard-shift$$
+  - ''''
   - $$mdi:apple-keyboard-option$$
   - {t: ENTER, h: Low}
   - {t: ␣, h: Rai}
   - $$mdi:apple-keyboard-control$$
-  - ⏎
-  - Rai
-  - $$mdi:backspace-outline$$
-  - $$mdi:apple-keyboard-command$$
+  - BACKSPACE
+  - ␣
+  - {t: ENTER, h: Rai}
+  - CONTEXT MENU
   Low:
   - {t: '`', h: toggle}
   - F1
-  - {t: F2, h: toggle}
+  - {t: '@', h: toggle}
   - {t: F3, h: toggle}
   - Win Close
   - F5
   - {t: ▽, type: trans}
+  - KP 7
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - Alt+↹
   - {t: ▽, type: trans}
-  - F1
-  - F2
-  - F3
-  - F4
-  - F5
+  - {t: ▽, type: trans}
+  - Gui+E
+  - Gui+R
   - PAGE UP
-  - F7
-  - F8
+  - {t: ▽, type: trans}
+  - KP 4
   - F9
   - F10
   - F11
   - F12
   - Caps Lock
-  - '!'
-  - '@'
-  - '#'
-  - $
-  - '%'
-  - ^
-  - AMPS
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - DELETE
+  - {t: ▽, type: trans}
+  - PAGE DOWN
+  - {t: ▽, type: trans}
+  - KP 1
   - KP MULTIPLY
   - (
-  - )
-  - '~'
+  - KP PLUS
+  - +
+  - '&fabric'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - BACKSPACE
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
