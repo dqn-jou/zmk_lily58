@@ -215,9 +215,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - '&fabric'
-  - '&p_pc'
   - '&p_fabr'
+  - '&p_pc'
+  - '&fabric'
   - BT PRV
   - BT NXT
   - Boot

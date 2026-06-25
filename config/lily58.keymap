@@ -101,7 +101,7 @@
 &bt BT_CLR      &bt BT_SEL 0    &bt BT_SEL 1    &bt BT_SEL 2     &bt BT_SEL 3  &bt BT_SEL 4                         &trans  &trans  &trans  &trans  &trans  &trans
 &bt BT_CLR_ALL  &trans          &mmv MOVE_UP    &trans           &trans        &trans                               &trans  &trans  &trans  &trans  &trans  &trans
 &trans          &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans        &trans                               &trans  &trans  &trans  &trans  &trans  &trans
-&trans          &fabric         &p_pc           &p_fabr          &bt BT_PRV    &bt BT_NXT    &bootloader    &trans  &trans  &trans  &trans  &trans  &trans  &trans
+&trans          &p_fabr         &p_pc           &fabric          &bt BT_PRV    &bt BT_NXT    &bootloader    &trans  &trans  &trans  &trans  &trans  &trans  &trans
                                                 &studio_unlock   &trans        &trans        &trans         &trans  &trans  &trans  &trans
             >;
         };
