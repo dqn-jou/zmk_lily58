@@ -220,7 +220,7 @@ layers:
   - '&p_fabr'
   - BT PRV
   - BT NXT
-  - {t: ▽, type: trans}
+  - Boot
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
