@@ -82,8 +82,8 @@ layers:
   - KP 4
   - KP 5
   - KP 6
-  - F11
-  - F12
+  - KP MINUS
+  - KP MINUS
   - Caps Lock
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
