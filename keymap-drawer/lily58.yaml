@@ -68,8 +68,8 @@ layers:
   - F5
   - {t: ▽, type: trans}
   - KP 7
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - KP 8
+  - KP 9
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - Alt+↹
@@ -80,8 +80,8 @@ layers:
   - PAGE UP
   - {t: ▽, type: trans}
   - KP 4
-  - F9
-  - F10
+  - KP 5
+  - KP 6
   - F11
   - F12
   - Caps Lock
@@ -92,10 +92,10 @@ layers:
   - PAGE DOWN
   - {t: ▽, type: trans}
   - KP 1
-  - KP MULTIPLY
-  - (
+  - KP 2
+  - KP 3
   - KP PLUS
-  - +
+  - KP PLUS
   - '&fabric'
   - {t: ▽, type: trans}
   - ←
@@ -105,11 +105,11 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - '-'
-  - KP PLUS
-  - '{'
-  - '}'
-  - '|'
+  - KP 0
+  - KP 0
+  - .
+  - KP ENTER
+  - \
   - {t: ▽, type: trans}
   - {type: held}
   - {t: ▽, type: trans}
