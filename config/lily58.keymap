@@ -102,7 +102,7 @@
 &bt BT_CLR_ALL  &trans          &mmv MOVE_UP    &trans           &trans        &trans                          &trans  &trans  &trans  &trans  &trans  &trans
 &trans          &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_RIGHT  &trans        &trans                          &trans  &trans  &trans  &trans  &trans  &trans
 &trans          &fabric         &p_pc           &p_fabr          &bt BT_PRV    &bt BT_NXT    &trans    &trans  &trans  &trans  &trans  &trans  &trans  &trans
-                                                &trans           &trans        &trans        &trans    &trans  &trans  &trans  &trans
+                                                &studio_unlock   &trans        &trans        &trans    &trans  &trans  &trans  &trans
             >;
         };
     };
