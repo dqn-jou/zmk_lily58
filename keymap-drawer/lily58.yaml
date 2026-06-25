@@ -215,9 +215,9 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
-  - '&mmv MOVE_UP'
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '&fabric'
+  - '&p_pc'
+  - '&p_fabr'
   - BT PRV
   - BT NXT
   - {t: ▽, type: trans}
