@@ -17,6 +17,20 @@
             bindings = <&mkp RCLK &kp DOWN &kp DOWN &kp ENTER>;
             label = "FABRIC";
         };
+
+        pass_pc: pass_pc {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp V &kp I &kp D &kp E &kp O>;
+            label = "PASS_PC";
+        };
+
+        pass_fabr: pass_fabr {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp V &kp A &kp R &kp T &kp A &kp S &kp H &kp A>;
+            label = "PASS_FABR";
+        };
     };
 
     keymap {

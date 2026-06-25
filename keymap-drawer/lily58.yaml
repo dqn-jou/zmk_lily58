@@ -138,9 +138,9 @@ layers:
   - PLAY PAUSE
   - ⏭️
   - '6'
-  - '7'
-  - '8'
-  - '9'
+  - Home
+  - UP ARROW
+  - End
   - '0'
   - {t: ▽, type: trans}
   - F1
