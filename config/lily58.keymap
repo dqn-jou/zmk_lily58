@@ -69,7 +69,7 @@
 &kt GRAVE    &kp F1  &kt F2    &kt F3           &kp LA(F4)    &kp F5                           &trans        &kp KP_N7  &kp KP_N8  &kp KP_N9  &trans        &trans
 &kp LA(TAB)  &trans  &trans    &kp LG(E)        &kp LG(R)     &kp PAGE_UP                      &kp SLASH     &kp KP_N4  &kp KP_N5  &kp KP_N6  &kp KP_MINUS  &kp EQUAL
 &kp CAPS     &trans  &trans    &kp DELETE       &kp UP_ARROW  &kp PAGE_DOWN                    &kp ASTERISK  &kp KP_N1  &kp KP_N2  &kp KP_N3  &kp KP_PLUS   &kp KP_PLUS
-&fabric      &trans  &kp LEFT  &kp RIGHT_ARROW  &kt DOWN      &kp BACKSPACE  &trans    &trans  &kp PERCENT   &kp KP_N0  &kp KP_N0  &kp DOT    &kp KP_ENTER  &kp BSLH
+&trans       &trans  &kp LEFT  &kp RIGHT_ARROW  &kt DOWN      &kp BACKSPACE  &trans    &trans  &kp PERCENT   &kp KP_N0  &kp KP_N0  &kp DOT    &kp KP_ENTER  &kp BSLH
                                &trans           &trans        &trans         &trans    &trans  &trans        &trans     &trans
             >;
 

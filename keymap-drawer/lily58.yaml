@@ -96,7 +96,7 @@ layers:
   - KP 3
   - KP PLUS
   - KP PLUS
-  - '&fabric'
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - ←
   - RIGHT ARROW
