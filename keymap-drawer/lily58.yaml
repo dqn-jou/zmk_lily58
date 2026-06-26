@@ -123,52 +123,52 @@ layers:
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - Vol Down
   - Vol Up
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - '`'
-  - '1'
-  - '2'
-  - ⏮️
-  - PLAY PAUSE
-  - ⏭️
-  - '6'
   - Home
   - UP ARROW
   - End
-  - '0'
   - {t: ▽, type: trans}
-  - F1
-  - F2
-  - F3
-  - PREV
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - ⏮️
   - PLAY PAUSE
-  - NEXT
+  - ⏭️
   - {t: ▽, type: trans}
   - ←
   - ↓
   - ↑
-  - →
   - {t: ▽, type: trans}
-  - F7
-  - F8
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - '&p_pc'
+  - '&p_fabr'
   - '&fabric'
   - {t: ▽, type: trans}
-  - VOL DN
-  - VOL UP
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
-  - KP PLUS
-  - '-'
-  - '='
-  - '['
-  - ']'
-  - \
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {type: held}
