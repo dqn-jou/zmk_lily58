@@ -7,6 +7,13 @@ config ZMK_KEYBOARD_NAME
 config ZMK_SPLIT_ROLE_CENTRAL
     default y
 
+# тестоваяя часть
+config ZMK_SPLIT_BLE_CENTRAL_PERIPHERALS
+    default 2 # Количество подключаемых половинок
+config BT_MAX_CONN
+    default 6 # BT_MAX_CONN = ZMK_SPLIT_BLE_CENTRAL_PERIPHERALS + 5
+# конец тестовой части
+
 endif
 
 if SHIELD_LILY58_LEFT || SHIELD_LILY58_RIGHT || SHIELD_LILY58_LEFT_PERIPHERAL || SHIELD_LILY58_DONGLE_XIAO || SHIELD_LILY58_DONGLE_PRO_MICRO
