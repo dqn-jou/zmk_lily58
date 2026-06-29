@@ -57,15 +57,15 @@ include:
 
 # тестовая часть
   - board: nice_nano # Или ваш контроллер для донгла
-    shield: моя_клавиатура_dongle
+    shield: Lily58_dongle
   - board: nice_nano
     shield: settings_reset
   # Для каждой половинки клавиатуры:
   - board: nice_nano
-    shield: моя_клавиатура_left
+    shield: Lily58_left
     cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
   - board: nice_nano
-    shield: моя_клавиатура_right
+    shield: Lily58_right
     cmake-args: -DCONFIG_ZMK_SPLIT=y -DCONFIG_ZMK_SPLIT_ROLE_CENTRAL=n
 # конец тестовой части
 
