@@ -192,8 +192,9 @@ layers:
   - {t: ▽, type: trans}
   - BT CLR ALL
   - {t: ▽, type: trans}
+  - '&mkp LCLK'
   - '&mmv MOVE_UP'
-  - {t: ▽, type: trans}
+  - '&mkp RCLK'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -206,7 +207,6 @@ layers:
   - '&mmv MOVE_LEFT'
   - '&mmv MOVE_DOWN'
   - '&mmv MOVE_RIGHT'
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
