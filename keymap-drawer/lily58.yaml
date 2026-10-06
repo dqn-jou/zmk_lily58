@@ -120,7 +120,7 @@ layers:
   - {t: ▽, type: trans}
   Rai:
   - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
+  - '1'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -220,7 +220,7 @@ layers:
   - '&fabric'
   - BT PRV
   - BT NXT
-  - Boot
+  - {t: Bas, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -231,8 +231,67 @@ layers:
   - '&studio_unlock'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: IOS, h: toggle}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  IOS:
+  - Esc
+  - '1'
+  - '2'
+  - '3'
+  - '4'
+  - '5'
+  - '6'
+  - '7'
+  - '8'
+  - '9'
+  - '0'
+  - '-'
+  - ↹
+  - Q
+  - W
+  - E
+  - R
+  - T
+  - Y
+  - U
+  - I
+  - O
+  - P
+  - '['
+  - $$mdi:apple-keyboard-shift$$
+  - A
+  - S
+  - D
+  - F
+  - G
+  - H
+  - J
+  - K
+  - L
+  - ;
+  - ']'
+  - {t: LEFT GUI, h: bt}
+  - Z
+  - X
+  - C
+  - V
+  - B
+  - Home
   - {t: ▽, type: trans}
+  - N
+  - M
+  - ','
+  - .
+  - /
+  - ''''
+  - $$mdi:apple-keyboard-option$$
+  - ENTER
+  - ␣
+  - $$mdi:apple-keyboard-control$$
+  - $$mdi:backspace-outline$$
+  - ␣
+  - $$mdi:apple-keyboard-control$$
+  - $$mdi:apple-keyboard-control$$
